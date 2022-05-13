@@ -1,0 +1,16 @@
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\refint\Calculator.dll
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+C:\Users\Levon0\Downloads\GitHub\matrix-calculator\MatrixCalculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
